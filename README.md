@@ -7,4 +7,3 @@ Reg.: 19BCS023
 SuB:DBMS
 
 database: Hotel           
-team number : 9
